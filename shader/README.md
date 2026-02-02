@@ -4,7 +4,7 @@ A basic OpenGL shader project using C# and Silk.NET that renders a colorful tria
 
 ## Preview
 
-![Shader Output](first_pic.png)
+![Shader Output](/images/first_pic.png)
 
 ## Features
 
